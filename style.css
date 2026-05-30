@@ -297,6 +297,43 @@ body {
   background: #7b5b3a;
 }
 
+.event-section {
+  background: #f3e7db;
+  padding: 3rem;
+  border-radius: 20px;
+  text-align: center;
+  align-items: center;
+  max-width: 750px;
+  margin: 30px auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.event-list {
+  list-style: disc;
+  padding-left: 0;
+  margin: 1.5rem auto;
+  text-align: left; /* keeps bullets aligned nicely */
+}
+
+.event-list li {
+  margin-bottom: 0.8rem;
+  font-size: 16px;
+  color: #222;
+}
+
+.event-contact {
+  margin-top: 30px;
+  font-size: 18px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.event-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  padding: 8px 14px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
 
 .footer {
   text-align: center;
