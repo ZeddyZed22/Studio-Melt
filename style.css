@@ -257,7 +257,5 @@ body {
 }
 
 @media screen and (max-width: 800px) {
-  .container, .content, .sidebar, .menu-list, .item-box {
-    width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
-  }
+
 }
