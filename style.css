@@ -334,6 +334,34 @@ body {
   padding: 8px 14px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+.about-section {
+  background: #f3e7db;
+  padding: 3rem;
+  border-radius: 20px;
+  text-align: center;
+  align-items: center;
+  max-width: 750px;
+  margin: 30px auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.about-intro {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  line-height: 1.7;
+}
+
+.about-list {
+  list-style: disc;
+  padding-left: 0;
+  margin: 1.5rem auto;
+  display: inline-block;
+  text-align: left;
+}
+
+.about-list li {
+  margin-bottom: 0.7rem;
+  font-size: 1.1rem;
+}
 
 .footer {
   text-align: center;
