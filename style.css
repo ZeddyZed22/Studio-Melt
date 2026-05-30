@@ -418,29 +418,6 @@ body {
   text-decoration: none;
 }
 
-.item-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  padding: 0;
-  list-style: none;
-  justify-content: center;
-}
-
-.item-grid li {
-  background: #f5e9dd;
-  padding: 12px 20px;
-  border-radius: 12px;
-  box-shadow: 0 3px 8px rgba(0,0,0,0.1);
-}
-
-.item-grid a {
-  text-decoration: none;
-  color: #2b2118;
-  font-weight: bold;
-  font-size: 1.1rem;
-}
-
 
 .footer {
   text-align: center;
