@@ -21,7 +21,7 @@ body {
 }
 
 .logo img {
-  width: 90px;
+  width: 150px;
   height: auto;
 }
 
@@ -34,7 +34,7 @@ body {
   text-decoration: none;
   color: #222;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 16px;
   padding: 4px 6px;
 }
 
